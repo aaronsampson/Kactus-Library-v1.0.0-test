@@ -1,0 +1,132 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5933B49B-0BB6-4A32-AEB0-CCB1D7F0A4F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 81,
+    "width": 137,
+    "x": 0,
+    "y": 40
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7C639444-AA39-42E4-A2CD-5F938C040B53"
+    }
+  ],
+  "name": "Components/Calendar/Cells/Days/1 - Day Cell - Inactive Middle",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "5308BF98-E66E-457D-8226-D8EA2EBE40F1",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "908680E4-30BE-4A51-BFCA-85618FEE1699",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 81,
+          "width": 137,
+          "x": 0,
+          "y": 40
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "3E509E3E-ADB0-4871-A3DE-2A1FA52C5C84",
+        "symbolID": "7E7093F0-8E9D-4F53-8749-9539D246F2EA"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "908680E4-30BE-4A51-BFCA-85618FEE1699",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 81,
+          "width": 137,
+          "x": 0,
+          "y": 40
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "3E509E3E-ADB0-4871-A3DE-2A1FA52C5C84",
+        "symbolID": "7E7093F0-8E9D-4F53-8749-9539D246F2EA"
+      }
+    }
+  }
+}

@@ -22,8 +22,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1142,
-    "width": 1393,
+    "height": 810,
+    "width": 1242,
     "x": 727,
     "y": 153
   },
@@ -50,16 +50,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "9D757554-86EE-480D-BA02-6ED971886D3D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FAE1640A-ECAF-4F7D-B8E0-B072A0CCC091"
+      "class": "group",
+      "id": "37A05D75-A56C-4110-9D79-E05AF195BFE9"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "Calendar 1.0",
+  "nameIsFixed": true,
   "presetDictionary": {
   },
   "resizesContent": false,

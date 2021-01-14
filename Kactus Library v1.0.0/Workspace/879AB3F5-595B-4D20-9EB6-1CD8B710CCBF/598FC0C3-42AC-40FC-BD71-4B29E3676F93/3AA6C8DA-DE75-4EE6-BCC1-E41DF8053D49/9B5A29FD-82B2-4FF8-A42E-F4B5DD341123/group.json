@@ -1,0 +1,122 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9B5A29FD-82B2-4FF8-A42E-F4B5DD341123",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 526,
+    "width": 137,
+    "x": 137,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "598F16E1-473A-4DFB-8E02-C2F719DB0137"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D33302BE-304E-4108-9514-84839A5BFF34"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D6407CCC-256D-4200-86EB-53972AD14279"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1FD8E0ED-5C38-4289-BCF1-0EC682D2BE6F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "441D59B5-5201-4DC5-9699-52850E537870"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "19F0EE7F-21E2-4584-B8BE-6BC43529BDCC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "70898C11-3F74-4626-A870-F82DA75EA65E"
+    }
+  ],
+  "name": "Monday Content [0v l]",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "84EF8635-F64A-49EA-976A-5BCEDB14C0BE",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
