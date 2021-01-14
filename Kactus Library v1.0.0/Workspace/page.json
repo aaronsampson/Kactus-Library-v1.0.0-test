@@ -42,6 +42,10 @@
     {
       "class": "artboard",
       "id": "953AE04B-FB57-4399-BC94-6484ACF9801F"
+    },
+    {
+      "class": "artboard",
+      "id": "879AB3F5-595B-4D20-9EB6-1CD8B710CCBF"
     }
   ],
   "name": "Workspace",
@@ -95,6 +99,11 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",
