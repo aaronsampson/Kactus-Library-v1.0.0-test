@@ -595,6 +595,86 @@
     }
   ],
   "foreignSwatches": [
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "BA6FFCC7-E019-4A6B-858E-6369CC98F018",
+      "libraryID": "08934469-138B-4931-932C-AACB23739F8A",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "147B9BED-3835-45BC-916A-9AB246D98E42",
+        "name": "Primary/6 | Gray 4",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6705882352941176,
+          "green": 0.6431372549019608,
+          "red": 0.592156862745098
+        }
+      },
+      "remoteSwatchID": "71E2CE79-6319-4DEF-A857-CC6CCA3D0F37",
+      "sourceLibraryName": "HC_UI-library_v4.0",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "F2C1FE84-5AEB-4D24-B10C-B8EF00B37D86",
+      "libraryID": "08934469-138B-4931-932C-AACB23739F8A",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "76B6294E-D80F-4533-A121-238E7C179613",
+        "name": "Primary/2 | Black",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        }
+      },
+      "remoteSwatchID": "F937A9E4-EA5C-4C90-A934-5A50FA237C09",
+      "sourceLibraryName": "HC_UI-library_v4.0",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "934F1AD4-D658-4F60-8B8B-62FCE062DAE8",
+      "libraryID": "08934469-138B-4931-932C-AACB23739F8A",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "63EB8DB5-7EDA-4C26-A3DB-8B4CDF16C650",
+        "name": "Primary/5 | Gray 3",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8901960784313725,
+          "green": 0.8784313725490196,
+          "red": 0.8588235294117647
+        }
+      },
+      "remoteSwatchID": "196886FF-931D-486B-9392-DFA6B629FE08",
+      "sourceLibraryName": "HC_UI-library_v4.0",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "5F2F7F68-24F0-4860-8A02-BDF976D1468D",
+      "libraryID": "08934469-138B-4931-932C-AACB23739F8A",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "257020C4-C8F1-481D-B039-DA75A695BB7D",
+        "name": "Primary/1 | White",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        }
+      },
+      "remoteSwatchID": "A99999EC-EC1E-4D49-A9B7-D9622B371709",
+      "sourceLibraryName": "HC_UI-library_v4.0",
+      "symbolPrivate": false
+    }
   ],
   "foreignSymbols": [
     {
@@ -14011,6 +14091,7 @@
   },
   "pages": [
     "Workspace",
+    "Input Field",
     "Symbols"
   ],
   "sharedSwatches": {
